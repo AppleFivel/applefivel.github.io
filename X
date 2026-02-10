@@ -1,0 +1,6 @@
+[{
+    "api": "https://www.xxibaozyw.com/api.php/provide/vod/?ac=list",
+    "name": "🔞X源",
+    "noHistory": true,
+    "isLock": true
+  }]
